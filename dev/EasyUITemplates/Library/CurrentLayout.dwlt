@@ -137,7 +137,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 494}
   m_MaxSize: {x: 14002, y: 14044}
   vertical: 0
-  controlID: 18081
+  controlID: 102
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 18082
+  controlID: 103
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,7 +187,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
-  controlID: 18083
+  controlID: 104
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,9 +369,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.0044998988, y: 0.005999903, z: -0.000027002485, w: 0.99997187}
   m_Size:
-    m_Target: 610.4134
+    m_Target: 826.0727
     speed: 2
-    m_Value: 610.4134
+    m_Value: 826.0727
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -425,9 +425,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ce290000
       m_LastClickedID: 0
-      m_ExpandedIDs: 0a12ffff0c12ffff9a14ffffa414ffffae14ffffbe14ffffca18ffffd418ffffde18ffffd41cffffde1cffffea1cfffff41cffff341dffff3e1dffff481dffff561dffff581dffff1027ffff4227ffff4827ffff6027ffff6427ffff7027ffff7427ffffa034ffffc434ffffa635ffff6e37ffffc243ffffc643ffff9646ffff664affff6a4affff704affff744affff7a4affff7c4affff804affff824affff864affff8c4affff3a4dffff986dffffa66dffffac6dffffc06dffffd46dffffdc6dfffff06dffff046effff0c6effff106effffc271ffff0874ffff7c76ffff8e99ffff9699ffffca99ffff22adffff3eadffff44adffff4aadffff50adffff74b0fffffeb1ffff02b4ffff32b4ffff1cb5ffff16c7ffff1cc7ffff22c7ffffe4ccffffe8ccffff8ed7ffff90d7ffff96d7ffffacd7ffffb2d7ffff96d9ffff9cd9ffffaedbffffa8deffff0ce1ffff98eaffffc2eaffff6aebffff184c00008e5d000082610000
+      m_ExpandedIDs: 82f7ffff18f9ffff28faffff8efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -689,20 +689,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Easy UI Template/Prefabs
+    - Assets/EasyUiTemplate/Sample
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Easy UI Template/Prefabs
+  - Assets/EasyUiTemplate/Sample
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: /Users/fukudakazuhisa/Unity/package/easy-ui-templates
+  m_LastProjectPath: /Users/fukudakazuhisa/Unity/package/easy-ui-templates/dev/EasyUITemplates
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 324c0000
-    m_LastClickedID: 19506
-    m_ExpandedIDs: 0000000042370000164b0000
+    m_SelectedIDs: 782a0000
+    m_LastClickedID: 10872
+    m_ExpandedIDs: 0000000058290000bc2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,7 +730,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000042370000
+    m_ExpandedIDs: 0000000058290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -757,22 +757,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000ed6f8ffcc3ef7ffc25f00009e600000904c0000c2530000685100007a7300003a640000228d00004e420000b88700006c9d0000f2980000104a00002a3e0000966c0000d292000030590000104786ff4ae31b009c890000d8790000289b000096a10000fe8900005a6e03005a9f0000505f00002e580000ee7d00000a94000020660000a8d2fdff72140100f84100004c520000ae5600003ac60300c45600007a7000002e95150046500000c2af000008ad00004289000008cb1000389d0000f81a10005c1a1000d6570000e6570000c8b30000208600007c2a01004893000074ad0000bcaa00004caf0000e29500005ea300001a9a0000c4950000e4990000c859000078bb0000688b000082a40000709c0000fc5f000030c6ffff6862000064970000306a0000243000009c330000f2cc0000f2350000d86100006ed70000a0d70000603601006c010100b2510100c626000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Sample
+      m_OriginalName: Sample
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10872
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
